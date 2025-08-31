@@ -1,2 +1,1 @@
-![Languages](https://github.com/mohamedaatid/mohamedaatid/blob/main/languages.svg)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
