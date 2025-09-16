@@ -37,7 +37,9 @@ I'm passionate about building scalable web applications and exploring new techno
 
 ## 📫 Let's Connect!
 
+<div align="center"> 
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaatid.dd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-aatid-4926a9312)
 
-
+</div>
