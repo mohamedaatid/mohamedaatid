@@ -14,10 +14,10 @@ I'm passionate about building scalable web applications and exploring new techno
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express"/>
 
 ### **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite,markdown"/>
 
 ### **Development Environment**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,leetcode"/>
 
 ### **Design & Creative Tools**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,obsidian"/>
@@ -50,3 +50,6 @@ I'm passionate about building scalable web applications and exploring new techno
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaatid.dd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaatid)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Dsg4Uv2a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-aatid-4926a9312)
+
+
