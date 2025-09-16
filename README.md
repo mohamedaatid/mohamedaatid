@@ -11,16 +11,16 @@ I'm passionate about building scalable web applications and exploring new techno
 ## 🚀 My Tech Stack
 
 ### **Frameworks & Libraries**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express&perline=5"/>
 
 ### **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite,markdown"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite,markdown&perline=5"/>
 
 ### **Development Environment**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,leetcode"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,leetcode&perline=5"/>
 
 ### **Design & Creative Tools**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,obsidian"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,obsidian&perline=5"/>
 
 ---
 
