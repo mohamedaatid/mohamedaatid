@@ -35,16 +35,6 @@ I'm passionate about building scalable web applications and exploring new techno
 
 ---
 
-## 🌟 Current Focus
-
-- 🔭 Building modern web applications with React and Vue.js
-- 🌱 Exploring Rust and Go for backend development
-- 💡 Always experimenting with new frameworks and tools
-- ⚡ Daily driving Arch Linux with NVIDIA setup
-- 🎨 Creating beautiful UIs with modern design principles
-
----
-
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaatid.dd@gmail.com)
