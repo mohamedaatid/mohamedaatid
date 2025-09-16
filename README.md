@@ -4,7 +4,7 @@
 
 I'm passionate about building scalable web applications and exploring new technologies. Always eager to learn and contribute to meaningful projects.
 
-*P.S. I use Arch btw* 🐧
+- I use Arch btw 🐧
 
 ---
 
