@@ -1,14 +1,12 @@
-# Hey there! I'm Mohamed 👋
+# Hi! I'm Mohamed
 
-> Full-Stack Developer • Problem Solver 
+> Full-Stack Developer • Problem Solver • I use Arch btw
 
 I'm passionate about building scalable web applications and exploring new technologies. Always eager to learn and contribute to meaningful projects.
 
-- I use Arch btw 🐧
-
 ---
 
-## 🚀 My Tech Stack
+##  My Tech Stack
 
 ### **Frameworks & Libraries**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express&perline=5"/>
@@ -24,23 +22,18 @@ I'm passionate about building scalable web applications and exploring new techno
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center"> 
   
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaatid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=445)
-![LeetCode Stats](https://leetcode.card.workers.dev/Mohamed_aatid?theme=dark&font=baloo)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
-
-<div align="center"> 
+## Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaatid.dd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-aatid-4926a9312)
-
-</div>
