@@ -26,8 +26,11 @@ I'm passionate about building scalable web applications and exploring new techno
 
 <div align="center"> 
   
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaatid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=445)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaatid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=600)
+
+<div style="margin-top:-1px;"></div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=600)
 
 </div>
 
