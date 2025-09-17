@@ -20,7 +20,7 @@ I'm passionate about building scalable web applications and exploring new techno
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,vite,leetcode&perline=5"/>
 
 ### **Design & Creative Tools**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,obsidian&perline=5"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,aftereffects,obsidian&perline=5"/>
 
 ---
 
@@ -30,6 +30,7 @@ I'm passionate about building scalable web applications and exploring new techno
   
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaatid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=445)
+![LeetCode Stats](https://leetcode.card.workers.dev/Mohamed_aatid?theme=dark&font=baloo)
 
 </div>
 
