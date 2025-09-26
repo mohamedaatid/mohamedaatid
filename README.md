@@ -15,7 +15,7 @@ I'm passionate about building scalable web applications and exploring new techno
 <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite,markdown&perline=5"/>
 
 ### **Development Environment**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,vite,leetcode,hackerrank&perline=5"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,vite,leetcode,hackerrank,vim&perline=5"/>
 
 ### **Design & Creative Tools**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,ps,ai,aftereffects,obsidian&perline=5"/>
