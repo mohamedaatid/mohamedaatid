@@ -2,8 +2,6 @@
 
 > Full-Stack Developer • Problem Solver • I use Arch btw
 
-I'm passionate about building scalable web applications and exploring new technologies. Always eager to learn and contribute to meaningful projects.
-
 ---
 
 ##  My Tech Stack
