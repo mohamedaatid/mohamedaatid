@@ -28,7 +28,7 @@
 
 <div style="margin-top:-1px;"></div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaatid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=600&langs_count=10)
 
 </div>
 
