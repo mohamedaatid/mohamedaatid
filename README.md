@@ -7,10 +7,10 @@
 ##  My Tech Stack
 
 ### **Frameworks & Libraries**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express&perline=5"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tailwind,flask,express,vue&perline=5"/>
 
 ### **Languages**
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,sqlite,markdown&perline=5"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,python,c,html,css,sass,lua,mongodb,sqlite,markdown&perline=6"/>
 
 ### **Development Environment**
 <img src="https://go-skill-icons.vercel.app/api/icons?i=debian,arch,git,github,npm,vscode,vite,leetcode,hackerrank,vim&perline=5"/>
